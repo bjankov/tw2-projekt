@@ -1,0 +1,16 @@
+{
+  "name": "servisna-radionica-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servisna radionica — REST API za kolegij Tehnologije weba 2",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js",
+    "reset": "node scripts/reset.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

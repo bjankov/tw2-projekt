@@ -1,0 +1,1726 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Dijagnostika",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "name": "Zamjena zaslona",
+      "price": 120
+    },
+    {
+      "id": 3,
+      "name": "Zamjena baterije",
+      "price": 60
+    },
+    {
+      "id": 4,
+      "name": "Čišćenje i zamjena termalne paste",
+      "price": 40
+    },
+    {
+      "id": 5,
+      "name": "Oporavak podataka",
+      "price": 90
+    },
+    {
+      "id": 6,
+      "name": "Instalacija operacijskog sustava",
+      "price": 35
+    },
+    {
+      "id": 7,
+      "name": "Zamjena tipkovnice",
+      "price": 70
+    },
+    {
+      "id": 8,
+      "name": "Popravak priključka za punjenje",
+      "price": 50
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Tiskara Horvat d.o.o.",
+      "email": "ured@horvat0.hr",
+      "phone": "+385 97 357 8546"
+    },
+    {
+      "id": 2,
+      "name": "Zelena kuhinja j.d.o.o.",
+      "email": "ured@kuhinja1.hr",
+      "phone": "+385 92 476 7355"
+    },
+    {
+      "id": 3,
+      "name": "Knjigovodstvo Babić",
+      "email": "ured@babic2.hr",
+      "phone": "+385 95 761 7490"
+    },
+    {
+      "id": 4,
+      "name": "Studio Linija d.o.o.",
+      "email": "ured@linija3.hr",
+      "phone": "+385 91 759 8635"
+    },
+    {
+      "id": 5,
+      "name": "Autoservis Perić",
+      "email": "ured@peric4.hr",
+      "phone": "+385 92 444 9297"
+    },
+    {
+      "id": 6,
+      "name": "Obrt Mikulić",
+      "email": "ured@mikulic5.hr",
+      "phone": "+385 91 948 7829"
+    },
+    {
+      "id": 7,
+      "name": "Fran Novak",
+      "email": "fran.novak6@mail.hr",
+      "phone": "+385 99 530 5945"
+    },
+    {
+      "id": 8,
+      "name": "Josip Vidović",
+      "email": "josip.vidovic7@mail.hr",
+      "phone": "+385 99 186 8181"
+    },
+    {
+      "id": 9,
+      "name": "Roko Babić",
+      "email": "roko.babic8@mail.hr",
+      "phone": "+385 92 131 5939"
+    },
+    {
+      "id": 10,
+      "name": "Dora Popović",
+      "email": "dora.popovic9@mail.hr",
+      "phone": "+385 92 524 4917"
+    },
+    {
+      "id": 11,
+      "name": "Antonio Filipović",
+      "email": "antonio.filipovic10@mail.hr",
+      "phone": "+385 91 551 7827"
+    },
+    {
+      "id": 12,
+      "name": "Toni Knežević",
+      "email": "toni.knezevic11@mail.hr",
+      "phone": "+385 98 490 7641"
+    },
+    {
+      "id": 13,
+      "name": "Ema Perković",
+      "email": "ema.perkovic12@mail.hr",
+      "phone": "+385 91 707 1609"
+    },
+    {
+      "id": 14,
+      "name": "Dora Perić",
+      "email": "dora.peric13@mail.hr",
+      "phone": "+385 92 890 9780"
+    },
+    {
+      "id": 15,
+      "name": "Rea Popović",
+      "email": "rea.popovic14@mail.hr",
+      "phone": "+385 98 245 3120"
+    },
+    {
+      "id": 16,
+      "name": "Fran Lovrić",
+      "email": "fran.lovric15@mail.hr",
+      "phone": "+385 95 346 7509"
+    },
+    {
+      "id": 17,
+      "name": "David Radić",
+      "email": "david.radic16@mail.hr",
+      "phone": "+385 97 144 7264"
+    },
+    {
+      "id": 18,
+      "name": "Mia Kovačić",
+      "email": "mia.kovacic17@mail.hr",
+      "phone": "+385 91 768 8327"
+    },
+    {
+      "id": 19,
+      "name": "Nika Blažević",
+      "email": "nika.blazevic18@mail.hr",
+      "phone": "+385 92 937 9429"
+    },
+    {
+      "id": 20,
+      "name": "Filip Jukić",
+      "email": "filip.jukic19@mail.hr",
+      "phone": "+385 97 655 4033"
+    },
+    {
+      "id": 21,
+      "name": "Katarina Marković",
+      "email": "katarina.markovic20@mail.hr",
+      "phone": "+385 99 924 9965"
+    },
+    {
+      "id": 22,
+      "name": "Ema Vuković",
+      "email": "ema.vukovic21@mail.hr",
+      "phone": "+385 91 504 9261"
+    },
+    {
+      "id": 23,
+      "name": "Dominik Blažević",
+      "email": "dominik.blazevic22@mail.hr",
+      "phone": "+385 99 685 3546"
+    },
+    {
+      "id": 24,
+      "name": "Ema Novak",
+      "email": "ema.novak23@mail.hr",
+      "phone": "+385 98 574 4990"
+    },
+    {
+      "id": 25,
+      "name": "Lucija Novak",
+      "email": "lucija.novak24@mail.hr",
+      "phone": "+385 98 126 8027"
+    },
+    {
+      "id": 26,
+      "name": "Marija Matić",
+      "email": "marija.matic25@mail.hr",
+      "phone": "+385 92 561 6809"
+    }
+  ],
+  "devices": [
+    {
+      "id": 1,
+      "clientId": 26,
+      "type": "console",
+      "brand": "Microsoft",
+      "model": "Xbox Series X",
+      "serialNumber": "EH62UA7L50Z"
+    },
+    {
+      "id": 2,
+      "clientId": 4,
+      "type": "phone",
+      "brand": "Google",
+      "model": "Pixel 7",
+      "serialNumber": "FL2JPSW8T1CM"
+    },
+    {
+      "id": 3,
+      "clientId": 1,
+      "type": "phone",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 12",
+      "serialNumber": "YXZBMTAM51"
+    },
+    {
+      "id": 4,
+      "clientId": 19,
+      "type": "laptop",
+      "brand": "Apple",
+      "model": "MacBook Air M2",
+      "serialNumber": "HN4C87UPEZ02"
+    },
+    {
+      "id": 5,
+      "clientId": 20,
+      "type": "laptop",
+      "brand": "Lenovo",
+      "model": "ThinkPad T14",
+      "serialNumber": "ZX0Y68V4457Y"
+    },
+    {
+      "id": 6,
+      "clientId": 1,
+      "type": "laptop",
+      "brand": "Asus",
+      "model": "ZenBook 14",
+      "serialNumber": "4WRKC7PL2G"
+    },
+    {
+      "id": 7,
+      "clientId": 16,
+      "type": "laptop",
+      "brand": "Asus",
+      "model": "ZenBook 14",
+      "serialNumber": "231YMLWH343"
+    },
+    {
+      "id": 8,
+      "clientId": 5,
+      "type": "desktop",
+      "brand": "Dell",
+      "model": "OptiPlex 7010",
+      "serialNumber": "ZTYQD59DXBS5"
+    },
+    {
+      "id": 9,
+      "clientId": 15,
+      "type": "laptop",
+      "brand": "Lenovo",
+      "model": "ThinkPad T14",
+      "serialNumber": "33J7R6XLU0"
+    },
+    {
+      "id": 10,
+      "clientId": 26,
+      "type": "desktop",
+      "brand": "Dell",
+      "model": "OptiPlex 7010",
+      "serialNumber": "KXPXP0TCENT"
+    },
+    {
+      "id": 11,
+      "clientId": 19,
+      "type": "laptop",
+      "brand": "Acer",
+      "model": "Aspire 5",
+      "serialNumber": "HLSRADS0E9H"
+    },
+    {
+      "id": 12,
+      "clientId": 5,
+      "type": "tablet",
+      "brand": "Apple",
+      "model": "iPad 10",
+      "serialNumber": "4WCCTYLTZY"
+    },
+    {
+      "id": 13,
+      "clientId": 24,
+      "type": "phone",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 12",
+      "serialNumber": "VULQTRF8F9Y"
+    },
+    {
+      "id": 14,
+      "clientId": 16,
+      "type": "laptop",
+      "brand": "HP",
+      "model": "EliteBook 840",
+      "serialNumber": "737AZYX06YX"
+    },
+    {
+      "id": 15,
+      "clientId": 24,
+      "type": "phone",
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "serialNumber": "H73KJMZZEF"
+    },
+    {
+      "id": 16,
+      "clientId": 13,
+      "type": "desktop",
+      "brand": "Dell",
+      "model": "OptiPlex 7010",
+      "serialNumber": "7WM4CJUCPG7"
+    },
+    {
+      "id": 17,
+      "clientId": 3,
+      "type": "tablet",
+      "brand": "Lenovo",
+      "model": "Tab P11",
+      "serialNumber": "9ZUAAVA3S50N"
+    },
+    {
+      "id": 18,
+      "clientId": 3,
+      "type": "laptop",
+      "brand": "Asus",
+      "model": "ZenBook 14",
+      "serialNumber": "1ZTUD89SEPEB"
+    },
+    {
+      "id": 19,
+      "clientId": 26,
+      "type": "laptop",
+      "brand": "Lenovo",
+      "model": "ThinkPad T14",
+      "serialNumber": "69QS2R0UV0"
+    },
+    {
+      "id": 20,
+      "clientId": 3,
+      "type": "laptop",
+      "brand": "Dell",
+      "model": "XPS 13",
+      "serialNumber": "V5MWMYF45236"
+    },
+    {
+      "id": 21,
+      "clientId": 21,
+      "type": "laptop",
+      "brand": "Apple",
+      "model": "MacBook Air M2",
+      "serialNumber": "ZRQHFG40BA6"
+    },
+    {
+      "id": 22,
+      "clientId": 23,
+      "type": "phone",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 12",
+      "serialNumber": "YQ345UQQ0MRX"
+    },
+    {
+      "id": 23,
+      "clientId": 3,
+      "type": "laptop",
+      "brand": "Lenovo",
+      "model": "ThinkPad T14",
+      "serialNumber": "GNCD5XP3A78"
+    },
+    {
+      "id": 24,
+      "clientId": 5,
+      "type": "tablet",
+      "brand": "Apple",
+      "model": "iPad 10",
+      "serialNumber": "EKDX7RACFHUE"
+    },
+    {
+      "id": 25,
+      "clientId": 13,
+      "type": "laptop",
+      "brand": "HP",
+      "model": "EliteBook 840",
+      "serialNumber": "DT0QK1YQQ0"
+    },
+    {
+      "id": 26,
+      "clientId": 6,
+      "type": "laptop",
+      "brand": "Lenovo",
+      "model": "ThinkPad T14",
+      "serialNumber": "GR61SHXK015"
+    },
+    {
+      "id": 27,
+      "clientId": 11,
+      "type": "desktop",
+      "brand": "HP",
+      "model": "ProDesk 400",
+      "serialNumber": "UKDJ4N0PTR"
+    },
+    {
+      "id": 28,
+      "clientId": 26,
+      "type": "phone",
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "serialNumber": "TLR25R3A9G"
+    },
+    {
+      "id": 29,
+      "clientId": 14,
+      "type": "desktop",
+      "brand": "Dell",
+      "model": "OptiPlex 7010",
+      "serialNumber": "42LQVNTV86X"
+    },
+    {
+      "id": 30,
+      "clientId": 5,
+      "type": "laptop",
+      "brand": "HP",
+      "model": "EliteBook 840",
+      "serialNumber": "VZLH6TG346"
+    },
+    {
+      "id": 31,
+      "clientId": 1,
+      "type": "laptop",
+      "brand": "Apple",
+      "model": "MacBook Air M2",
+      "serialNumber": "YFXKRP59X9MU"
+    },
+    {
+      "id": 32,
+      "clientId": 13,
+      "type": "desktop",
+      "brand": "HP",
+      "model": "ProDesk 400",
+      "serialNumber": "F0D550JBSE"
+    },
+    {
+      "id": 33,
+      "clientId": 10,
+      "type": "desktop",
+      "brand": "HP",
+      "model": "ProDesk 400",
+      "serialNumber": "SH9TBPN4JAD"
+    },
+    {
+      "id": 34,
+      "clientId": 10,
+      "type": "tablet",
+      "brand": "Lenovo",
+      "model": "Tab P11",
+      "serialNumber": "PAGVPUJY5D"
+    },
+    {
+      "id": 35,
+      "clientId": 23,
+      "type": "tablet",
+      "brand": "Samsung",
+      "model": "Galaxy Tab S8",
+      "serialNumber": "EADMZM4618Z"
+    },
+    {
+      "id": 36,
+      "clientId": 22,
+      "type": "laptop",
+      "brand": "Lenovo",
+      "model": "ThinkPad T14",
+      "serialNumber": "8RK4E4FPJVSL"
+    },
+    {
+      "id": 37,
+      "clientId": 24,
+      "type": "tablet",
+      "brand": "Lenovo",
+      "model": "Tab P11",
+      "serialNumber": "JME7MTYN719"
+    },
+    {
+      "id": 38,
+      "clientId": 20,
+      "type": "phone",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 12",
+      "serialNumber": "11VR82QZTN0"
+    },
+    {
+      "id": 39,
+      "clientId": 7,
+      "type": "tablet",
+      "brand": "Apple",
+      "model": "iPad 10",
+      "serialNumber": "T2SDURS4TYA"
+    },
+    {
+      "id": 40,
+      "clientId": 18,
+      "type": "phone",
+      "brand": "Google",
+      "model": "Pixel 7",
+      "serialNumber": "4DFBUKCGRC1P"
+    },
+    {
+      "id": 41,
+      "clientId": 19,
+      "type": "laptop",
+      "brand": "Apple",
+      "model": "MacBook Air M2",
+      "serialNumber": "D02Z3FWQXFVN"
+    },
+    {
+      "id": 42,
+      "clientId": 18,
+      "type": "console",
+      "brand": "Sony",
+      "model": "PlayStation 5",
+      "serialNumber": "XR125L4GCGA1"
+    },
+    {
+      "id": 43,
+      "clientId": 19,
+      "type": "console",
+      "brand": "Microsoft",
+      "model": "Xbox Series X",
+      "serialNumber": "T30QVW1EQBK"
+    },
+    {
+      "id": 44,
+      "clientId": 6,
+      "type": "desktop",
+      "brand": "HP",
+      "model": "ProDesk 400",
+      "serialNumber": "GQD0HXJY75BV"
+    },
+    {
+      "id": 45,
+      "clientId": 5,
+      "type": "phone",
+      "brand": "Xiaomi",
+      "model": "Redmi Note 12",
+      "serialNumber": "D0W7NCG3ZE"
+    },
+    {
+      "id": 46,
+      "clientId": 4,
+      "type": "phone",
+      "brand": "Apple",
+      "model": "iPhone 14",
+      "serialNumber": "FC590M3TEA5B"
+    }
+  ],
+  "work-orders": [
+    {
+      "id": 1,
+      "orderNumber": "RN-2026-0001",
+      "deviceId": 36,
+      "serviceId": 7,
+      "receivedAt": "2026-05-04",
+      "pickupAt": "2026-05-12",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 2,
+      "orderNumber": "RN-2026-0002",
+      "deviceId": 1,
+      "serviceId": 3,
+      "receivedAt": "2026-05-05",
+      "pickupAt": "2026-05-08",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 3,
+      "orderNumber": "RN-2026-0003",
+      "deviceId": 6,
+      "serviceId": 3,
+      "receivedAt": "2026-05-06",
+      "pickupAt": "2026-05-16",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 4,
+      "orderNumber": "RN-2026-0004",
+      "deviceId": 33,
+      "serviceId": 2,
+      "receivedAt": "2026-05-08",
+      "pickupAt": "2026-05-16",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 5,
+      "orderNumber": "RN-2026-0005",
+      "deviceId": 23,
+      "serviceId": 1,
+      "receivedAt": "2026-05-11",
+      "pickupAt": "2026-05-20",
+      "status": "picked-up",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 6,
+      "orderNumber": "RN-2026-0006",
+      "deviceId": 26,
+      "serviceId": 7,
+      "receivedAt": "2026-05-11",
+      "pickupAt": "2026-05-17",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 7,
+      "orderNumber": "RN-2026-0007",
+      "deviceId": 2,
+      "serviceId": 5,
+      "receivedAt": "2026-05-14",
+      "pickupAt": "2026-05-23",
+      "status": "picked-up",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 8,
+      "orderNumber": "RN-2026-0008",
+      "deviceId": 34,
+      "serviceId": 1,
+      "receivedAt": "2026-05-15",
+      "pickupAt": "2026-05-27",
+      "status": "picked-up",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 9,
+      "orderNumber": "RN-2026-0009",
+      "deviceId": 12,
+      "serviceId": 6,
+      "receivedAt": "2026-05-16",
+      "pickupAt": "2026-05-24",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 10,
+      "orderNumber": "RN-2026-0010",
+      "deviceId": 28,
+      "serviceId": 4,
+      "receivedAt": "2026-05-19",
+      "pickupAt": "2026-05-27",
+      "status": "picked-up",
+      "description": "Uređaj se pregrijava i gasi."
+    },
+    {
+      "id": 11,
+      "orderNumber": "RN-2026-0011",
+      "deviceId": 38,
+      "serviceId": 3,
+      "receivedAt": "2026-05-19",
+      "pickupAt": "2026-05-22",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 12,
+      "orderNumber": "RN-2026-0012",
+      "deviceId": 7,
+      "serviceId": 6,
+      "receivedAt": "2026-05-20",
+      "pickupAt": "2026-05-24",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 13,
+      "orderNumber": "RN-2026-0013",
+      "deviceId": 35,
+      "serviceId": 7,
+      "receivedAt": "2026-05-21",
+      "pickupAt": "2026-05-24",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 14,
+      "orderNumber": "RN-2026-0014",
+      "deviceId": 21,
+      "serviceId": 2,
+      "receivedAt": "2026-05-22",
+      "pickupAt": "2026-05-31",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 15,
+      "orderNumber": "RN-2026-0015",
+      "deviceId": 18,
+      "serviceId": 6,
+      "receivedAt": "2026-05-23",
+      "pickupAt": "2026-06-04",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 16,
+      "orderNumber": "RN-2026-0016",
+      "deviceId": 31,
+      "serviceId": 6,
+      "receivedAt": "2026-05-23",
+      "pickupAt": "2026-05-26",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 17,
+      "orderNumber": "RN-2026-0017",
+      "deviceId": 37,
+      "serviceId": 6,
+      "receivedAt": "2026-05-23",
+      "pickupAt": "2026-05-31",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 18,
+      "orderNumber": "RN-2026-0018",
+      "deviceId": 41,
+      "serviceId": 3,
+      "receivedAt": "2026-05-23",
+      "pickupAt": "2026-06-04",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 19,
+      "orderNumber": "RN-2026-0019",
+      "deviceId": 36,
+      "serviceId": 5,
+      "receivedAt": "2026-05-27",
+      "pickupAt": "2026-05-30",
+      "status": "picked-up",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 20,
+      "orderNumber": "RN-2026-0020",
+      "deviceId": 40,
+      "serviceId": 1,
+      "receivedAt": "2026-05-27",
+      "pickupAt": "2026-06-04",
+      "status": "picked-up",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 21,
+      "orderNumber": "RN-2026-0021",
+      "deviceId": 29,
+      "serviceId": 8,
+      "receivedAt": "2026-05-28",
+      "pickupAt": "2026-06-02",
+      "status": "picked-up",
+      "description": "Ne prepoznaje punjač."
+    },
+    {
+      "id": 22,
+      "orderNumber": "RN-2026-0022",
+      "deviceId": 22,
+      "serviceId": 1,
+      "receivedAt": "2026-05-29",
+      "pickupAt": "2026-06-04",
+      "status": "picked-up",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 23,
+      "orderNumber": "RN-2026-0023",
+      "deviceId": 24,
+      "serviceId": 6,
+      "receivedAt": "2026-05-29",
+      "pickupAt": "2026-06-05",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 24,
+      "orderNumber": "RN-2026-0024",
+      "deviceId": 3,
+      "serviceId": 3,
+      "receivedAt": "2026-05-30",
+      "pickupAt": "2026-06-08",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 25,
+      "orderNumber": "RN-2026-0025",
+      "deviceId": 19,
+      "serviceId": 4,
+      "receivedAt": "2026-05-30",
+      "pickupAt": "2026-06-08",
+      "status": "picked-up",
+      "description": "Uređaj se pregrijava i gasi."
+    },
+    {
+      "id": 26,
+      "orderNumber": "RN-2026-0026",
+      "deviceId": 39,
+      "serviceId": 6,
+      "receivedAt": "2026-05-30",
+      "status": "cancelled",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 27,
+      "orderNumber": "RN-2026-0027",
+      "deviceId": 46,
+      "serviceId": 3,
+      "receivedAt": "2026-05-30",
+      "pickupAt": "2026-06-11",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 28,
+      "orderNumber": "RN-2026-0028",
+      "deviceId": 30,
+      "serviceId": 2,
+      "receivedAt": "2026-05-31",
+      "pickupAt": "2026-06-07",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 29,
+      "orderNumber": "RN-2026-0029",
+      "deviceId": 9,
+      "serviceId": 5,
+      "receivedAt": "2026-06-01",
+      "pickupAt": "2026-06-09",
+      "status": "picked-up",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 30,
+      "orderNumber": "RN-2026-0030",
+      "deviceId": 10,
+      "serviceId": 3,
+      "receivedAt": "2026-06-01",
+      "pickupAt": "2026-06-08",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 31,
+      "orderNumber": "RN-2026-0031",
+      "deviceId": 17,
+      "serviceId": 7,
+      "receivedAt": "2026-06-03",
+      "pickupAt": "2026-06-10",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 32,
+      "orderNumber": "RN-2026-0032",
+      "deviceId": 38,
+      "serviceId": 2,
+      "receivedAt": "2026-06-04",
+      "pickupAt": "2026-06-10",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 33,
+      "orderNumber": "RN-2026-0033",
+      "deviceId": 42,
+      "serviceId": 6,
+      "receivedAt": "2026-06-04",
+      "pickupAt": "2026-06-06",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 34,
+      "orderNumber": "RN-2026-0034",
+      "deviceId": 27,
+      "serviceId": 1,
+      "receivedAt": "2026-06-06",
+      "status": "cancelled",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 35,
+      "orderNumber": "RN-2026-0035",
+      "deviceId": 28,
+      "serviceId": 3,
+      "receivedAt": "2026-06-07",
+      "status": "cancelled",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 36,
+      "orderNumber": "RN-2026-0036",
+      "deviceId": 5,
+      "serviceId": 2,
+      "receivedAt": "2026-06-09",
+      "pickupAt": "2026-06-14",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 37,
+      "orderNumber": "RN-2026-0037",
+      "deviceId": 12,
+      "serviceId": 6,
+      "receivedAt": "2026-06-09",
+      "pickupAt": "2026-06-18",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 38,
+      "orderNumber": "RN-2026-0038",
+      "deviceId": 1,
+      "serviceId": 5,
+      "receivedAt": "2026-06-10",
+      "pickupAt": "2026-06-18",
+      "status": "picked-up",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 39,
+      "orderNumber": "RN-2026-0039",
+      "deviceId": 6,
+      "serviceId": 4,
+      "receivedAt": "2026-06-10",
+      "pickupAt": "2026-06-13",
+      "status": "picked-up",
+      "description": "Uređaj se pregrijava i gasi."
+    },
+    {
+      "id": 40,
+      "orderNumber": "RN-2026-0040",
+      "deviceId": 26,
+      "serviceId": 2,
+      "receivedAt": "2026-06-10",
+      "pickupAt": "2026-06-13",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 41,
+      "orderNumber": "RN-2026-0041",
+      "deviceId": 25,
+      "serviceId": 6,
+      "receivedAt": "2026-06-13",
+      "pickupAt": "2026-06-18",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 42,
+      "orderNumber": "RN-2026-0042",
+      "deviceId": 45,
+      "serviceId": 2,
+      "receivedAt": "2026-06-14",
+      "pickupAt": "2026-06-22",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 43,
+      "orderNumber": "RN-2026-0043",
+      "deviceId": 11,
+      "serviceId": 3,
+      "receivedAt": "2026-06-17",
+      "pickupAt": "2026-06-21",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 44,
+      "orderNumber": "RN-2026-0044",
+      "deviceId": 39,
+      "serviceId": 7,
+      "receivedAt": "2026-06-17",
+      "pickupAt": "2026-06-25",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 45,
+      "orderNumber": "RN-2026-0045",
+      "deviceId": 22,
+      "serviceId": 8,
+      "receivedAt": "2026-06-18",
+      "pickupAt": "2026-06-30",
+      "status": "picked-up",
+      "description": "Ne prepoznaje punjač."
+    },
+    {
+      "id": 46,
+      "orderNumber": "RN-2026-0046",
+      "deviceId": 35,
+      "serviceId": 3,
+      "receivedAt": "2026-06-19",
+      "pickupAt": "2026-07-01",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 47,
+      "orderNumber": "RN-2026-0047",
+      "deviceId": 16,
+      "serviceId": 1,
+      "receivedAt": "2026-06-20",
+      "pickupAt": "2026-06-28",
+      "status": "picked-up",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 48,
+      "orderNumber": "RN-2026-0048",
+      "deviceId": 8,
+      "serviceId": 2,
+      "receivedAt": "2026-06-21",
+      "pickupAt": "2026-06-23",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 49,
+      "orderNumber": "RN-2026-0049",
+      "deviceId": 17,
+      "serviceId": 7,
+      "receivedAt": "2026-06-21",
+      "pickupAt": "2026-07-02",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 50,
+      "orderNumber": "RN-2026-0050",
+      "deviceId": 33,
+      "serviceId": 1,
+      "receivedAt": "2026-06-23",
+      "pickupAt": "2026-06-30",
+      "status": "picked-up",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 51,
+      "orderNumber": "RN-2026-0051",
+      "deviceId": 2,
+      "serviceId": 3,
+      "receivedAt": "2026-06-25",
+      "pickupAt": "2026-06-29",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 52,
+      "orderNumber": "RN-2026-0052",
+      "deviceId": 43,
+      "serviceId": 8,
+      "receivedAt": "2026-06-25",
+      "pickupAt": "2026-07-04",
+      "status": "picked-up",
+      "description": "Ne prepoznaje punjač."
+    },
+    {
+      "id": 53,
+      "orderNumber": "RN-2026-0053",
+      "deviceId": 3,
+      "serviceId": 2,
+      "receivedAt": "2026-06-26",
+      "pickupAt": "2026-06-28",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 54,
+      "orderNumber": "RN-2026-0054",
+      "deviceId": 9,
+      "serviceId": 7,
+      "receivedAt": "2026-06-26",
+      "pickupAt": "2026-07-04",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 55,
+      "orderNumber": "RN-2026-0055",
+      "deviceId": 14,
+      "serviceId": 3,
+      "receivedAt": "2026-06-26",
+      "status": "cancelled",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 56,
+      "orderNumber": "RN-2026-0056",
+      "deviceId": 37,
+      "serviceId": 7,
+      "receivedAt": "2026-06-26",
+      "pickupAt": "2026-07-06",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 57,
+      "orderNumber": "RN-2026-0057",
+      "deviceId": 20,
+      "serviceId": 4,
+      "receivedAt": "2026-06-27",
+      "pickupAt": "2026-07-08",
+      "status": "picked-up",
+      "description": "Uređaj se pregrijava i gasi."
+    },
+    {
+      "id": 58,
+      "orderNumber": "RN-2026-0058",
+      "deviceId": 41,
+      "serviceId": 5,
+      "receivedAt": "2026-06-27",
+      "pickupAt": "2026-07-06",
+      "status": "picked-up",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 59,
+      "orderNumber": "RN-2026-0059",
+      "deviceId": 5,
+      "serviceId": 6,
+      "receivedAt": "2026-06-28",
+      "pickupAt": "2026-07-06",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 60,
+      "orderNumber": "RN-2026-0060",
+      "deviceId": 44,
+      "serviceId": 4,
+      "receivedAt": "2026-06-28",
+      "pickupAt": "2026-07-07",
+      "status": "picked-up",
+      "description": "Uređaj se pregrijava i gasi."
+    },
+    {
+      "id": 61,
+      "orderNumber": "RN-2026-0061",
+      "deviceId": 13,
+      "serviceId": 6,
+      "receivedAt": "2026-06-29",
+      "pickupAt": "2026-07-06",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 62,
+      "orderNumber": "RN-2026-0062",
+      "deviceId": 15,
+      "serviceId": 3,
+      "receivedAt": "2026-06-29",
+      "pickupAt": "2026-07-04",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 63,
+      "orderNumber": "RN-2026-0063",
+      "deviceId": 32,
+      "serviceId": 4,
+      "receivedAt": "2026-06-29",
+      "pickupAt": "2026-07-06",
+      "status": "picked-up",
+      "description": "Uređaj se pregrijava i gasi."
+    },
+    {
+      "id": 64,
+      "orderNumber": "RN-2026-0064",
+      "deviceId": 40,
+      "serviceId": 2,
+      "receivedAt": "2026-06-30",
+      "pickupAt": "2026-07-12",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 65,
+      "orderNumber": "RN-2026-0065",
+      "deviceId": 19,
+      "serviceId": 7,
+      "receivedAt": "2026-07-01",
+      "pickupAt": "2026-07-12",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 66,
+      "orderNumber": "RN-2026-0066",
+      "deviceId": 4,
+      "serviceId": 3,
+      "receivedAt": "2026-07-03",
+      "pickupAt": "2026-07-09",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 67,
+      "orderNumber": "RN-2026-0067",
+      "deviceId": 18,
+      "serviceId": 6,
+      "receivedAt": "2026-07-03",
+      "pickupAt": "2026-07-10",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 68,
+      "orderNumber": "RN-2026-0068",
+      "deviceId": 24,
+      "serviceId": 5,
+      "receivedAt": "2026-07-05",
+      "pickupAt": "2026-07-08",
+      "status": "picked-up",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 69,
+      "orderNumber": "RN-2026-0069",
+      "deviceId": 31,
+      "serviceId": 4,
+      "receivedAt": "2026-07-05",
+      "pickupAt": "2026-07-12",
+      "status": "picked-up",
+      "description": "Uređaj se pregrijava i gasi."
+    },
+    {
+      "id": 70,
+      "orderNumber": "RN-2026-0070",
+      "deviceId": 23,
+      "serviceId": 6,
+      "receivedAt": "2026-07-08",
+      "pickupAt": "2026-07-12",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 71,
+      "orderNumber": "RN-2026-0071",
+      "deviceId": 30,
+      "serviceId": 5,
+      "receivedAt": "2026-07-11",
+      "pickupAt": "2026-07-15",
+      "status": "picked-up",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 72,
+      "orderNumber": "RN-2026-0072",
+      "deviceId": 11,
+      "serviceId": 1,
+      "receivedAt": "2026-07-12",
+      "pickupAt": "2026-07-21",
+      "status": "picked-up",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 73,
+      "orderNumber": "RN-2026-0073",
+      "deviceId": 26,
+      "serviceId": 2,
+      "receivedAt": "2026-07-14",
+      "pickupAt": "2026-07-18",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 74,
+      "orderNumber": "RN-2026-0074",
+      "deviceId": 37,
+      "serviceId": 4,
+      "receivedAt": "2026-07-17",
+      "pickupAt": "2026-07-24",
+      "status": "picked-up",
+      "description": "Uređaj se pregrijava i gasi."
+    },
+    {
+      "id": 75,
+      "orderNumber": "RN-2026-0075",
+      "deviceId": 10,
+      "serviceId": 2,
+      "receivedAt": "2026-07-18",
+      "pickupAt": "2026-07-23",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 76,
+      "orderNumber": "RN-2026-0076",
+      "deviceId": 13,
+      "serviceId": 7,
+      "receivedAt": "2026-07-18",
+      "status": "cancelled",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 77,
+      "orderNumber": "RN-2026-0077",
+      "deviceId": 36,
+      "serviceId": 5,
+      "receivedAt": "2026-07-18",
+      "pickupAt": "2026-07-29",
+      "status": "picked-up",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 78,
+      "orderNumber": "RN-2026-0078",
+      "deviceId": 44,
+      "serviceId": 7,
+      "receivedAt": "2026-07-18",
+      "pickupAt": "2026-07-21",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 79,
+      "orderNumber": "RN-2026-0079",
+      "deviceId": 14,
+      "serviceId": 5,
+      "receivedAt": "2026-07-19",
+      "status": "cancelled",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 80,
+      "orderNumber": "RN-2026-0080",
+      "deviceId": 42,
+      "serviceId": 1,
+      "receivedAt": "2026-07-19",
+      "pickupAt": "2026-07-29",
+      "status": "picked-up",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 81,
+      "orderNumber": "RN-2026-0081",
+      "deviceId": 45,
+      "serviceId": 1,
+      "receivedAt": "2026-07-19",
+      "status": "cancelled",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 82,
+      "orderNumber": "RN-2026-0082",
+      "deviceId": 27,
+      "serviceId": 6,
+      "receivedAt": "2026-07-22",
+      "pickupAt": "2026-08-02",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 83,
+      "orderNumber": "RN-2026-0083",
+      "deviceId": 2,
+      "serviceId": 5,
+      "receivedAt": "2026-07-23",
+      "pickupAt": "2026-08-03",
+      "status": "picked-up",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 84,
+      "orderNumber": "RN-2026-0084",
+      "deviceId": 38,
+      "serviceId": 3,
+      "receivedAt": "2026-07-23",
+      "pickupAt": "2026-07-29",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 85,
+      "orderNumber": "RN-2026-0085",
+      "deviceId": 43,
+      "serviceId": 7,
+      "receivedAt": "2026-07-24",
+      "status": "cancelled",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 86,
+      "orderNumber": "RN-2026-0086",
+      "deviceId": 8,
+      "serviceId": 8,
+      "receivedAt": "2026-07-26",
+      "pickupAt": "2026-07-30",
+      "status": "picked-up",
+      "description": "Ne prepoznaje punjač."
+    },
+    {
+      "id": 87,
+      "orderNumber": "RN-2026-0087",
+      "deviceId": 3,
+      "serviceId": 7,
+      "receivedAt": "2026-07-29",
+      "pickupAt": "2026-08-04",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 88,
+      "orderNumber": "RN-2026-0088",
+      "deviceId": 15,
+      "serviceId": 6,
+      "receivedAt": "2026-07-30",
+      "pickupAt": "2026-08-11",
+      "status": "picked-up",
+      "description": "Sustav se ne pokreće nakon ažuriranja."
+    },
+    {
+      "id": 89,
+      "orderNumber": "RN-2026-0089",
+      "deviceId": 40,
+      "serviceId": 7,
+      "receivedAt": "2026-08-04",
+      "pickupAt": "2026-08-10",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 90,
+      "orderNumber": "RN-2026-0090",
+      "deviceId": 18,
+      "serviceId": 1,
+      "receivedAt": "2026-08-05",
+      "pickupAt": "2026-08-12",
+      "status": "picked-up",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 91,
+      "orderNumber": "RN-2026-0091",
+      "deviceId": 25,
+      "serviceId": 4,
+      "receivedAt": "2026-08-05",
+      "pickupAt": "2026-08-15",
+      "status": "picked-up",
+      "description": "Uređaj se pregrijava i gasi."
+    },
+    {
+      "id": 92,
+      "orderNumber": "RN-2026-0092",
+      "deviceId": 12,
+      "serviceId": 4,
+      "receivedAt": "2026-08-06",
+      "pickupAt": "2026-08-10",
+      "status": "picked-up",
+      "description": "Uređaj se pregrijava i gasi."
+    },
+    {
+      "id": 93,
+      "orderNumber": "RN-2026-0093",
+      "deviceId": 26,
+      "serviceId": 3,
+      "receivedAt": "2026-08-06",
+      "pickupAt": "2026-08-10",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 94,
+      "orderNumber": "RN-2026-0094",
+      "deviceId": 37,
+      "serviceId": 7,
+      "receivedAt": "2026-08-07",
+      "pickupAt": "2026-08-12",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 95,
+      "orderNumber": "RN-2026-0095",
+      "deviceId": 44,
+      "serviceId": 5,
+      "receivedAt": "2026-08-08",
+      "pickupAt": "2026-08-18",
+      "status": "picked-up",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 96,
+      "orderNumber": "RN-2026-0096",
+      "deviceId": 10,
+      "serviceId": 7,
+      "receivedAt": "2026-08-10",
+      "pickupAt": "2026-08-15",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 97,
+      "orderNumber": "RN-2026-0097",
+      "deviceId": 5,
+      "serviceId": 1,
+      "receivedAt": "2026-08-13",
+      "pickupAt": "2026-08-22",
+      "status": "picked-up",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 98,
+      "orderNumber": "RN-2026-0098",
+      "deviceId": 24,
+      "serviceId": 8,
+      "receivedAt": "2026-08-13",
+      "pickupAt": "2026-08-25",
+      "status": "picked-up",
+      "description": "Ne prepoznaje punjač."
+    },
+    {
+      "id": 99,
+      "orderNumber": "RN-2026-0099",
+      "deviceId": 35,
+      "serviceId": 5,
+      "receivedAt": "2026-08-16",
+      "pickupAt": "2026-08-18",
+      "status": "picked-up",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 100,
+      "orderNumber": "RN-2026-0100",
+      "deviceId": 23,
+      "serviceId": 7,
+      "receivedAt": "2026-08-17",
+      "pickupAt": "2026-08-28",
+      "status": "picked-up",
+      "description": "Nekoliko tipki ne radi."
+    },
+    {
+      "id": 101,
+      "orderNumber": "RN-2026-0101",
+      "deviceId": 32,
+      "serviceId": 5,
+      "receivedAt": "2026-08-17",
+      "pickupAt": "2026-08-22",
+      "status": "picked-up",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 102,
+      "orderNumber": "RN-2026-0102",
+      "deviceId": 19,
+      "serviceId": 4,
+      "receivedAt": "2026-08-18",
+      "pickupAt": "2026-08-24",
+      "status": "picked-up",
+      "description": "Uređaj se pregrijava i gasi."
+    },
+    {
+      "id": 103,
+      "orderNumber": "RN-2026-0103",
+      "deviceId": 9,
+      "serviceId": 5,
+      "receivedAt": "2026-08-20",
+      "pickupAt": "2026-08-24",
+      "status": "picked-up",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 104,
+      "orderNumber": "RN-2026-0104",
+      "deviceId": 27,
+      "serviceId": 1,
+      "receivedAt": "2026-08-20",
+      "pickupAt": "2026-08-29",
+      "status": "picked-up",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 105,
+      "orderNumber": "RN-2026-0105",
+      "deviceId": 14,
+      "serviceId": 1,
+      "receivedAt": "2026-08-21",
+      "pickupAt": "2026-08-24",
+      "status": "picked-up",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 106,
+      "orderNumber": "RN-2026-0106",
+      "deviceId": 30,
+      "serviceId": 3,
+      "receivedAt": "2026-08-28",
+      "pickupAt": "2026-09-02",
+      "status": "picked-up",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 107,
+      "orderNumber": "RN-2026-0107",
+      "deviceId": 42,
+      "serviceId": 3,
+      "receivedAt": "2026-08-28",
+      "status": "cancelled",
+      "description": "Baterija se brzo prazni."
+    },
+    {
+      "id": 108,
+      "orderNumber": "RN-2026-0108",
+      "deviceId": 43,
+      "serviceId": 2,
+      "receivedAt": "2026-08-30",
+      "pickupAt": "2026-09-11",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 109,
+      "orderNumber": "RN-2026-0109",
+      "deviceId": 13,
+      "serviceId": 2,
+      "receivedAt": "2026-08-31",
+      "pickupAt": "2026-09-06",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 110,
+      "orderNumber": "RN-2026-0110",
+      "deviceId": 15,
+      "serviceId": 2,
+      "receivedAt": "2026-08-31",
+      "pickupAt": "2026-09-10",
+      "status": "picked-up",
+      "description": "Razbijen zaslon nakon pada."
+    },
+    {
+      "id": 111,
+      "orderNumber": "RN-2026-0111",
+      "deviceId": 38,
+      "serviceId": 4,
+      "receivedAt": "2026-09-04",
+      "pickupAt": "2026-09-15",
+      "status": "picked-up",
+      "description": "Uređaj se pregrijava i gasi."
+    },
+    {
+      "id": 112,
+      "orderNumber": "RN-2026-0112",
+      "deviceId": 32,
+      "serviceId": 5,
+      "receivedAt": "2026-09-13",
+      "pickupAt": "2026-09-19",
+      "status": "picked-up",
+      "description": "Potreban oporavak podataka s oštećenog diska."
+    },
+    {
+      "id": 113,
+      "orderNumber": "RN-2026-0113",
+      "deviceId": 24,
+      "serviceId": 1,
+      "receivedAt": "2026-09-21",
+      "status": "received",
+      "description": "Uređaj se ne uključuje."
+    },
+    {
+      "id": 114,
+      "orderNumber": "RN-2026-0114",
+      "deviceId": 27,
+      "serviceId": 8,
+      "receivedAt": "2026-09-21",
+      "status": "received",
+      "description": "Ne prepoznaje punjač."
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Goran Pavić",
+      "email": "goran.pavic@servis.hr",
+      "role": "staff",
+      "passwordHash": "7667702f44a38d313a11beb9d45e1ee1:2871c3a1aa7fe1aa45c57c7d3a9629b3928222d2aa9b9fd9850037ba169b55b0"
+    },
+    {
+      "id": 2,
+      "name": "Ivana Lovrić",
+      "email": "ivana.lovric@servis.hr",
+      "role": "user",
+      "passwordHash": "30117fe9b143979f7e64e9bfcfaf3c5b:774afae089184cf7eea6c78fd85009cb0157884f491a1e0202d1890cee9173f8"
+    },
+    {
+      "id": 3,
+      "name": "Ispitni korisnik",
+      "email": "test@servis.hr",
+      "role": "user",
+      "passwordHash": "b268bfddfa7ff8d99b96f7a07c765ba3:e86aeed4e157b4c6b760c869b9ea393b2808e3065847cd9a8963c15fae93ef89"
+    }
+  ]
+}
