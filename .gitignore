@@ -1,2 +1,20 @@
-servisna-radionica/README.md
+# Dependencies and build output
+node_modules
+dist
+
+# Local environment (commit .env.example instead)
 .env
+*.local
+
+# Logs
+*.log
+
+# Editor files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+
+# Not part of the submission
+servisna-radionica/README.md
+TW2-Projektni-zadatak.pdf
