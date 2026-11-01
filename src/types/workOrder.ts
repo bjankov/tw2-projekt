@@ -8,15 +8,13 @@ export type WorkOrderStatus = (typeof WORK_ORDER_STATUSES)[number]
 
 export interface WorkOrder {
   id: Id
-  orderNumber: string // format RN-2026-0001
+  orderNumber: string // RN-2026-0001
   deviceId: Id
   serviceId: Id
-  receivedAt: string // date as YYYY-MM-DD
-  // Missing in seed data for unfinished orders, null when saved without a value.
+  receivedAt: string // YYYY-MM-DD
   pickupAt?: string | null
   status: WorkOrderStatus
   description: string
-  // Present only when requested with ?_expand=device / ?_expand=service
   device?: Device | null
   service?: Service | null
 }

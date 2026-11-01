@@ -14,7 +14,6 @@ export interface LoginRequest {
   password: string
 }
 
-// Response of POST /login
 export interface LoginResponse {
   token: string
   user: User
